@@ -1,5 +1,4 @@
 ---
-
 ```md
 # SecurePass CLI
 
