@@ -10,7 +10,7 @@ This repository contains multiple implementations of the same idea, ranging from
 
 ## Project Structure
 
-```
+
 
 securepass-cli/
 ├── scripts/                  # Learning and comparison versions
